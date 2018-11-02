@@ -8,7 +8,7 @@ public class ProgramTest {
 
     @Test
     public void test() {
-        assertEquals(3, Program.cuadradoDe(2));
+        assertEquals(4, Program.cuadradoDe(2));
     }
 
 }
